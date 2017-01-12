@@ -32,7 +32,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.txtTotal = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
-            this.btnCalcular = new System.Windows.Forms.Button();
+            this.btnCalcular1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // txtDespesas
@@ -73,24 +73,24 @@
             this.label2.TabIndex = 3;
             this.label2.Text = "Despesa:";
             // 
-            // btnCalcular
+            // btnCalcular1
             // 
-            btnCalcular.Enabled = false;
-            this.btnCalcular.ForeColor = System.Drawing.SystemColors.WindowText;
-            this.btnCalcular.Location = new System.Drawing.Point(191, 24);
-            this.btnCalcular.Name = "btnCalcular";
-            this.btnCalcular.Size = new System.Drawing.Size(81, 20);
-            this.btnCalcular.TabIndex = 4;
-            this.btnCalcular.Text = "&Calcular";
-            this.btnCalcular.UseVisualStyleBackColor = true;
-            this.btnCalcular.Click += new System.EventHandler(this.btnCalcular_Click);
+            this.btnCalcular1.Enabled = false;
+            this.btnCalcular1.ForeColor = System.Drawing.SystemColors.WindowText;
+            this.btnCalcular1.Location = new System.Drawing.Point(191, 24);
+            this.btnCalcular1.Name = "btnCalcular1";
+            this.btnCalcular1.Size = new System.Drawing.Size(81, 20);
+            this.btnCalcular1.TabIndex = 4;
+            this.btnCalcular1.Text = "&Calcular";
+            this.btnCalcular1.UseVisualStyleBackColor = true;
+            this.btnCalcular1.Click += new System.EventHandler(this.btnCalcular_Click);
             // 
             // GastosEmRestaurantes
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(283, 85);
-            this.Controls.Add(this.btnCalcular);
+            this.Controls.Add(this.btnCalcular1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.txtTotal);
             this.Controls.Add(this.label1);
@@ -111,7 +111,7 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox txtTotal;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Button btnCalcular;
+        private System.Windows.Forms.Button btnCalcular1;
     }
 }
 

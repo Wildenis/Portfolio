@@ -26,11 +26,11 @@ namespace GastoEmRestaurante
         {
             if (txtDespesas.TextLength == 0)
             {
-                btnCalcular.Enabled = false;
+                btnCalcular1.Enabled = false;
             }
             else
             {
-                btnCalcular.Enabled = true;
+                btnCalcular1.Enabled = true;
             }
         }
     }
