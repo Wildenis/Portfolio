@@ -1,0 +1,9 @@
+C:\Users\willlpcc\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio\GastoEmRestaurante\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.exe.config
+C:\Users\willlpcc\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio\GastoEmRestaurante\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.exe
+C:\Users\willlpcc\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio\GastoEmRestaurante\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.pdb
+C:\Users\willlpcc\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio\GastoEmRestaurante\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csprojResolveAssemblyReference.cache
+C:\Users\willlpcc\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio\GastoEmRestaurante\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.GastosEmRestaurantes.resources
+C:\Users\willlpcc\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio\GastoEmRestaurante\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.Properties.Resources.resources
+C:\Users\willlpcc\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio\GastoEmRestaurante\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csproj.GenerateResource.Cache
+C:\Users\willlpcc\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio\GastoEmRestaurante\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.exe
+C:\Users\willlpcc\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio\GastoEmRestaurante\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.pdb
