@@ -100,6 +100,7 @@
             this.Name = "GastosEmRestaurantes";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Calcular Gastos";
+            this.Load += new System.EventHandler(this.GastosEmRestaurantes_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

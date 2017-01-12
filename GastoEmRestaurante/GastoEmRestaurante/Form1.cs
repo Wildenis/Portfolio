@@ -33,5 +33,10 @@ namespace GastoEmRestaurante
                 btnCalcular.Enabled = true;
             }
         }
+
+        private void GastosEmRestaurantes_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
